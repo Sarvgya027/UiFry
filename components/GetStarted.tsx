@@ -7,7 +7,7 @@ const GetStarted = () => {
 
       <div className='container mx-auto flex justify-center items-center '>
         <div className="flex flex- rounded-lg lg:flex-row w-[80%] justify-between items-center bg-black  py-5 lg:py-10">
-          <div className="flex flex-col items-center gap-4 pl-4 Justify-center lg:pl-20">
+          <div className="flex flex-col items-center gap-4 pl-4 pr-4 lg:pl-20">
             <p className='text-5xl font-bold text-white'>Ready To Get Started?</p>
             <p className='text-white'>Risus Habitant Leo Egestas Mauris Diam Eget Morbi Tempus <br />
               Vulputate.</p>
