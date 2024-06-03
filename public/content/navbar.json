@@ -1,0 +1,21 @@
+{
+  "links": [
+    {
+      "path": "/",
+      "text": "Home"
+    },
+    {
+      "path": "/about",
+      "text": "About Us"
+    },
+    {
+      "path": "/pricing",
+      "text": "Pricing"
+    },
+    {
+      "path": "/features",
+      "text": "Features"
+    }
+  ],
+  "downloadButton": "Download"
+}
