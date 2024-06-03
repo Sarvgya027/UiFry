@@ -21,7 +21,7 @@ const Testimonials = () => {
             Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor <br />
             Neque Lorem Sapien, Suspendisse Aliquam.
           </p>
-          <Image src='/images/assets/users.svg' alt='users' width={150} height={150} />
+          <Image src='/images/assets/Users.svg' alt='users' width={150} height={150} />
           <p className="text font-semibold">Nick Jonas</p>
         </div>
       </div>

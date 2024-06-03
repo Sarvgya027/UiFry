@@ -9,7 +9,7 @@ const Features = () => {
   return (
     <div className="container w-[90%] mx-auto ">
       <div className="flex flex-col lg:flex-row justify-between items-center">
-        <Image src='/images/assets/mockimage1.svg' alt='hero' width={600} height={800} priority={true} />
+        <Image src='/images/assets/mockImage1.svg' alt='hero' width={600} height={800} priority={true} />
         <div className="flex flex-col gap-5 items-start">
           <div className="flex flex-col mb-5 ">
             <p className="text-[#FF5555] tracking-widest font-medium text-lg items-start">FEATURES</p>

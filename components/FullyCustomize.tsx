@@ -7,7 +7,7 @@ const FullyCustomize = () => {
   return (
     <div className="container w-[90%] mx-auto ">
       <div className="flex flex-col lg:flex-row justify-between items-center">
-        <Image src='/images/assets/mockimage3.png' alt='chooseUs' width={500} height={500} priority={true} />
+        <Image src='/images/assets/mockImage3.png' alt='chooseUs' width={500} height={500} priority={true} />
         <div className="flex flex-col gap-10 items-start">
 
           <div className="flex flex-col gap-2">
