@@ -16,7 +16,7 @@ const FullyCustomize = () => {
               <p className="text-2xl mt-10 font-semibold">Fully Customizable</p>
             </div>
 
-            <p className="text-lg text-gray-500">Arcu At Dictum Sapien, Mollis. Vulputate Sit ld Accumsan, <br />
+            <p className="text-lg text-black">Arcu At Dictum Sapien, Mollis. Vulputate Sit ld Accumsan, <br />
               Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis <br />
               Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis <br />
               Rhoncus, Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget <br />

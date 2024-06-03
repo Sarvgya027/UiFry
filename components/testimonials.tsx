@@ -5,13 +5,13 @@ const Testimonials = () => {
   return (
     <div className="container w-[90%] mt-20 mx-auto">
       <p className="text-xl font-medium text-center py-2 tracking-widest">TESTIMONIAL</p>
-      <p className="text-center font-extrabold text-5xl">
+      <p className="text-center text-black font-extrabold text-5xl">
         What Our Users <br /> Say About Us?
       </p>
       <div className="flex flex-col lg:flex-row justify-between items-center">
         <Image src="/images/assets/mockImage3new.svg" alt="hero" width={700} height={900} />
         <div className="flex flex-col gap-5  items-start">
-          <p className="text-3xl font-semibold">
+          <p className="text-3xl text-black font-semibold">
             The Best Financial Accounting <br /> App Ever!
           </p>
           <p className="text-base text-gray-600">
